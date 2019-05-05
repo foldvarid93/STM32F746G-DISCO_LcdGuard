@@ -1,8 +1,8 @@
 # STM32F756G-DISCO LCD-Guard
-I have broken the LCD touch sensor glass on my ST32F746G-DISCO development board.
+I broke the LCD touch sensor glass of my ST32F746G-DISCO development board.
 ![1](https://user-images.githubusercontent.com/41072101/57183592-84ed7f00-6eaf-11e9-92e3-c93f6b086615.JPG)
 
-I don't wanted to buy a brand new kit, because it is too expensive for me. On the other hand, the whole development tool was in good condition -except the Touch panel...-, eventually. 
+I don't wanted to buy a brand new kit, because it is too expensive for me. On the other hand, the whole development tool was in good condition -except the touch panel...-, eventually. 
 So, I searched some more cost efficient way, and I found [Buydisplay](https://www.buydisplay.com). I have ordered a 4,3" sized touch sensor panel from china and I received that within 2 weeks. 
   
 ![2](https://user-images.githubusercontent.com/41072101/57183595-86b74280-6eaf-11e9-8972-37bc5ed97f88.JPG)
@@ -30,3 +30,7 @@ Because the FPC connector and the piece of PCB are 4mm thick together, I have de
 ![7](https://user-images.githubusercontent.com/41072101/57183524-a69a3680-6eae-11e9-8428-b5cb38f40b6d.png)
 ![8](https://user-images.githubusercontent.com/41072101/57183526-a8fc9080-6eae-11e9-92f9-6104829da039.png)
 ![9](https://user-images.githubusercontent.com/41072101/57183527-aa2dbd80-6eae-11e9-9a31-fa6e2a745a13.JPG)
+
+## The result
+
+![10](https://user-images.githubusercontent.com/41072101/57190452-961fa580-6f1a-11e9-8871-12f50bb8d666.JPG)
